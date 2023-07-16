@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello I have stored some programing projects I have made here.
 
 <!--
 **LexxieR/LexxieR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
