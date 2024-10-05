@@ -13,4 +13,4 @@ I'm a passionate developer with a love for economics, business, and exploring cr
 - **Tools**: Git, GitHub Actions, Jupyter Notebook, C++, 
 
 ## 🌍 Connect with me:
-- [LinkedIn](www.linkedin.com/in/alexandria-roy-a18886168)
+- [LinkedIn](https://linkedin.com/in/alexandria-roy-a18886168)
