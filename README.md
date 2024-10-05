@@ -1,8 +1,16 @@
 ### Hello I have stored some programing projects I have made here.
 
-<!--
-**LexxieR/LexxieR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Lexxie 👋
 
-- 🌱 I’m currently learning about machine learning
-- 😄 Pronouns: She/her
--->
+I'm a passionate developer with a love for economics, business, and exploring creative ideas through programming. I enjoy working on diverse projects and sharing knowledge.
+
+- 🔭 I’m currently working on making accessible organizational charts.
+- 🌱 I’m exploring the effects of climate change on creativity and art.
+- 💬 Ask me about classical conditioning concepts in media!
+
+## ⚡ My Skills
+- **Languages**: Python, JavaScript, HTML, CSS
+- **Tools**: Git, GitHub Actions, Jupyter Notebook, C++, 
+
+## 🌍 Connect with me:
+- [LinkedIn](www.linkedin.com/in/alexandria-roy-a18886168)
