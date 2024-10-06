@@ -1,5 +1,3 @@
-### Hello I have stored some programing projects I have made here.
-
 # Hi, I'm Lexxie 👋
 
 I'm passionate about continuous learning and love contributing to a variety of different projects. My goal is to constantly improve my skills, and I enjoy collaborating with others on exciting challenges.
