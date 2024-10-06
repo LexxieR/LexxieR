@@ -2,11 +2,9 @@
 
 # Hi, I'm Lexxie 👋
 
-I'm a passionate developer with a love for economics, business, and exploring creative ideas through programming. I enjoy working on diverse projects and sharing knowledge.
+I'm passionate about continuous learning and love contributing to a variety of different projects. My goal is to constantly improve my skills, and I enjoy collaborating with others on exciting challenges.
 
-- 🔭 I’m currently working on making accessible organizational charts.
-- 🌱 I’m exploring the effects of climate change on creativity and art.
-- 💬 Ask me about classical conditioning concepts in media!
+- 🔭 I’m currently a Physics Co-op Student at McMaster Universy.
 
 ## ⚡ My Skills
 - **Languages**: Python, JavaScript, HTML, CSS
