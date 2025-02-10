@@ -10,3 +10,4 @@ I'm passionate about continuous learning and love contributing to a variety of d
 
 ## 🌍 Connect with me:
 - [LinkedIn](https://linkedin.com/in/alexandria-roy-a18886168)
+- [Email](lexxie.roy@gmail.com)
