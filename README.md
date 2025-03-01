@@ -5,7 +5,7 @@ I'm passionate about continuous learning and love contributing to a variety of d
 - 🔭 I’m currently a Physics Co-op Student at McMaster Universy.
 
 ## ⚡ My Skills
-- **Languages**: Python, C++, Java, R, JavaScript, HTML, CSS
+- **Languages**: Python, C++, Java, R, Haskell, JavaScript, HTML, CSS
 - **Tools**: Git, GitHub Actions, Jupyter Notebook
 
 ## 🌍 Connect with me:
